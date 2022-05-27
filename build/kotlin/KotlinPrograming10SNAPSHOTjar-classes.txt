@@ -1,0 +1,1 @@
+/home/roba/IdeaProjects/KotlinPrograming/build/classes/kotlin/main/MainKt.class
